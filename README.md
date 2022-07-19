@@ -1,2 +1,5 @@
 # numpy1
-methods in numpy
+# pip-- python installation pakages
+# to install numpy :
+# in terminal widow type: pip install numpy
+# to uninstall: pip uninstall numpy
